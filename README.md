@@ -1,5 +1,5 @@
 # VentePriveeAuth
-Web Api d'authentification selom AWS
+Web Api d'authentification selon AWS
 # Paramètre Token 
 AccessKeyId: VENTEPRIVEE2018
 SecretAccessKey:	fhut79YKJUY!REZAOUTZAVCXWCLE
